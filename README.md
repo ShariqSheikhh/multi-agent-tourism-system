@@ -22,17 +22,7 @@
 - [About](#-about)
 - [Features](#-features)
 - [Demo](#-demo)
-- [Architecture](#-architecture)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [API Reference](#-api-reference)
-- [How It Works](#-how-it-works)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [Future Enhancements](#-future-enhancements)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
-- [Contact](#-contact)
+- [Installation](#-quickstart)
 
 ---
 
@@ -71,6 +61,17 @@ Built using a **multi-agent architecture**, the system coordinates specialized a
 | **Weather Only** | "What's the weather in Barcelona?" |
 | **Places Only** | "I'm going to Rome, let's plan my trip" |
 | **Combined** | "What's the temperature in Dubai and what can I visit?" |
+
+---
+## 🚀 Quick Start
+
+### 🌐 Try Online (No Installation!) 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JYyYvpJZ7TPB2tAT3Ghhw8qav-a0znIi?usp=sharing)
+
+**Click the badge above to run the agent in Google Colab - completely free!**
+
+Just click "Run all" and interact with the agent directly in your browser.
 
 ---
 
