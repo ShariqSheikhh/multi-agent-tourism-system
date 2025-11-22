@@ -11,7 +11,7 @@
 
 *Get real-time weather information and personalized tourist attraction recommendations for any destination worldwide.*
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture) • [Contributing](#-contributing)
+[Features](#-features) • [Demo](#-demo) • 
 
 </div>
 
@@ -22,7 +22,7 @@
 - [About](#-about)
 - [Features](#-features)
 - [Demo](#-demo)
-- [Installation](#-quickstart)
+
 
 ---
 
